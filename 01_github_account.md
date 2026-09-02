@@ -1,6 +1,6 @@
 # Create GitHub account
 
-We'll extensively use GitHub in this course to teach you how to use git! Therefore, you'll need a GitHub account. Create a free GitHub account here: https://github.com/signup. A few notes:
+We'll extensively use GitHub in this course to teach you how to use git! Therefore, you'll need a GitHub account. Create a free GitHub account here: https://github.com/signup. A few notes: dit is de edit die we gemaakt hebben. 
 
 - You can use an existing account if you already have one.
 - You are free to choose any user name you like.
